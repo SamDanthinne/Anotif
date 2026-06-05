@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Données locales (propres à ta machine)
+data/
+
+# Éditeur
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.spec
